@@ -1,7 +1,7 @@
 {
   "name": "flycartinc/attribute",
   "description": "Attribute management for Storepress",
-  "keywords": ["shop", "ecommerce", "attribute", "catalog"],
+  "keywords": ["shop", "ecommerce", "attribute", "products",  "catalog"],
   "homepage": "http://flycart.org",
   "license": "MIT",
   "authors": [
