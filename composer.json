@@ -1,0 +1,27 @@
+{
+  "name": "flycartinc/attribute",
+  "description": "Attribute management for Storepress",
+  "keywords": ["shop", "ecommerce", "attribute", "catalog"],
+  "homepage": "http://flycart.org",
+  "license": "MIT",
+  "authors": [
+    {
+      "name":     "Ramesh Elamathi"
+    }
+  ],
+  "require": {
+    "php": "^5.5.9|^7.0",
+    "illuminate/database": ">=5.0.0"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "autoload": {
+    "psr-0": {
+      "Attribute": "src"
+    },
+    "psr-4": {
+      "Flycartinc\\Attribute\\": "src/"
+    }
+  }
+}
